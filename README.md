@@ -16,6 +16,6 @@ xwMOOC R Meetup 발표자료 모음
 |요일   |주제   |발표자   |발표자료   |   |
 |---|---|---|---|---|
 |2017.08.23(수)|감성분석(Sentiment Analysis) - 깔끔한 텍스트 방식(tidytext)|이광춘|[발표자료](http://statkclee.github.io/ml/ml-sentiment.html)
-||modelr |이상열 |
+||modelr |이상열 |[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_1/modelr/modelr_example.md)
 |2017.09.20(수)| ||
 || | |
