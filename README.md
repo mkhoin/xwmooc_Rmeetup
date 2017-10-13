@@ -23,4 +23,4 @@ xwMOOC R Meetup 발표자료 모음
 |2017.10.18(수)|R 로 웹 데이터를 가져오는 4가지 방법(은 크롤링)|박찬엽|
 ||데이터과학 블로그 10분 완성|이광춘|
 ||테드(TED) 에듀데이터 분석|한수미|
-||Shiny의 기본 원리와 이해|김승욱|
+||Shiny의 기본 원리와 이해|김승욱|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_3/shiny/r_meetup_shiny.pdf)
