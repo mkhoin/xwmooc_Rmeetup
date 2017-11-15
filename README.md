@@ -26,4 +26,4 @@ xwMOOC R Meetup 발표자료 모음
 ||Shiny의 기본 원리와 이해|김승욱|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_3/shiny/r_meetup_shiny.pdf)
 |2017.11.15(수)|통계모형 시각화|이광춘|[발표자료](https://statkclee.github.io/statistics/stat-model-visualization.html)
 ||R언어 역사|[발표자료](https://statkclee.github.io/data-science/ds-r-lang.html)|
-||catboost 소개|[|
+||catboost 소개|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_4/catboost_introduction.ipynb)|
