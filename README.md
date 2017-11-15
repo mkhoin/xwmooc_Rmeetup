@@ -25,5 +25,5 @@ xwMOOC R Meetup 발표자료 모음
 ||테드(TED) 에듀데이터 분석|한수미|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_3/ted/TED_Edu_Corpus_Analysis_%ED%95%9C%EC%88%98%EB%AF%B8.ipynb)
 ||Shiny의 기본 원리와 이해|김승욱|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_3/shiny/r_meetup_shiny.pdf)
 |2017.11.15(수)|통계모형 시각화|이광춘|[발표자료](https://statkclee.github.io/statistics/stat-model-visualization.html)
-||R언어 역사|[발표자료](https://statkclee.github.io/data-science/ds-r-lang.html)|
-||catboost 소개|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_4/catboost_introduction.ipynb)|
+||R언어 역사|이광춘|[발표자료](https://statkclee.github.io/data-science/ds-r-lang.html)|
+||catboost 소개|이상열|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_4/catboost_introduction.ipynb)|
