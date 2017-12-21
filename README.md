@@ -28,6 +28,6 @@ xwMOOC R Meetup 발표자료 모음
 ||R언어 역사|이광춘|[발표자료](https://statkclee.github.io/data-science/ds-r-lang.html)|
 ||catboost 소개|이상열|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_4/catboost_introduction.ipynb)|
 |2017.12.21(목)|LASSO regresion을 이용한 Taxonomy|류충현|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_5/taxonomy/02_Documents_Texonomy_Slide.pdf)
-||메타분석(Meta analysis)|김가경||
+||메타분석(Meta analysis)|김가경|[발표자료](https://github.com/KaggleBreak/xwmooc_Rmeetup/tree/master/Meetup_5/MetaAnalysis)|
 ||시계열 데이터 예측|이광춘|[발표자료](https://statkclee.github.io/statistics/stat-time-series-forecast.html)|
 
